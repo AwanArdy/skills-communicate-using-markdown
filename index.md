@@ -3,3 +3,7 @@
 ``` javascript
 const oshi = "Yama";
 ```
+- [x] Nogizaka46 12th Birthday Live
+- [] Yamashita Mizuki Graduation Concert
+- [] Saito Kyoko Graduation Concert
+- [] 5th Hinatansai
